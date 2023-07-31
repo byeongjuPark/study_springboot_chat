@@ -9,6 +9,5 @@ public class StudySpringbootChatApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(StudySpringbootChatApplication.class, args);
 	}
-	// zzz
 
 }
